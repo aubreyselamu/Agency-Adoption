@@ -1,0 +1,17 @@
+blinker==1.4
+click==8.0.3
+Flask==2.0.1
+Flask-DebugToolbar==0.11.0
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==1.0.0
+greenlet==1.1.2
+importlib-metadata==4.8.2
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+psycopg2-binary==2.9.2
+SQLAlchemy==1.4.28
+typing-extensions==4.0.1
+Werkzeug==2.0.2
+WTForms==3.0.0
+zipp==3.6.0
