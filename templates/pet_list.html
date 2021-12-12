@@ -7,7 +7,7 @@
     {% for pet in pets%}
     <div class="col-3">
         <img class="img-thumbnail" src="{{pet.image_url()}}">
-        <a href="">{{pet.name}}</a>
+        <a href="/{{pet.id}}">{{pet.name}}</a>
         {% if pet.available %} <b>is available!</b> {% endif %}
     </div>
     {% else %}
